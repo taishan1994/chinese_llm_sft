@@ -21,7 +21,7 @@
     - [sentencepiece_chinese_bpe](https://github.com/taishan1994/sentencepiece_chinese_bpe)：怎么让英文大语言模型支持中文？（一）构建中文tokenization
     - [chinese_llm_pretrained](https://github.com/taishan1994/chinese_llm_pretrained)：怎么让英文大语言模型支持中文？（二）继续预训练
 
-    的第三部分，对预训练模型进行指令微调。主要是讲解整个流程，详细介绍可查看知乎：，如果想实际使用的话可以参考发布的其它的项目：[taishan1994 (西西嘛呦) (github.com)](https://github.com/taishan1994)。
+    的第三部分，对预训练模型进行指令微调。主要是讲解整个流程，详细介绍可查看知乎：https://zhuanlan.zhihu.com/p/640086409，如果想实际使用的话可以参考发布的其它的项目：[taishan1994 (西西嘛呦) (github.com)](https://github.com/taishan1994)。
 
 # 依赖
 
